@@ -12,23 +12,12 @@ they act.
 
 ## Demo
 
+
+https://github.com/user-attachments/assets/086b0749-1705-4949-8c0d-09e638b305bd
+
+
 A short screen recording walking through the app:
 
-https://github.com/user-attachments/assets/demo.webm
-
-> The video file lives at [`demo.webm`](./demo.webm) in the repository root.
-> GitHub renders an inline player when the `.webm` is uploaded to the repo
-> (drag-and-drop into a README edit or release also works). If it does not
-> embed in your Git host, download or open [`demo.webm`](./demo.webm) directly.
-
-<details>
-<summary>Embed manually (if your host supports HTML video)</summary>
-
-```html
-<video src="./demo.webm" controls width="720"></video>
-```
-
-</details>
 
 ---
 
